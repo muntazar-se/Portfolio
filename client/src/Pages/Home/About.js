@@ -13,24 +13,24 @@ function About() {
     <div className="">
       <SectionTitle title="About" />
 
-      <div className="flex w-full items-center sm:flex-col">
-        <div className="h-[70vh] w-1/2  sm:w-full">
+      <div className="flex w-full items-center sm:flex-col mb-10">
+        <div className="h-[40vh] w-1/2  sm:w-full">
           <dotlottie-player
             src="https://lottie.host/cae0d3cf-054e-4925-86fa-9819cf8805bd/mEIzUZtwMc.json"
             background="transparent"
             speed="1"
-            // loop
-            // autoplay
+            loop
+            autoplay
           ></dotlottie-player>
         </div>
-        <div className="flex flex-col gap-5 w-1/2 sm:w-full">
-          <p className="text-white">
+        <div className="flex flex-col gap-5 w-1/2 sm:w-full ml-10">
+          <p className="text-white text-xl">
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur
             temporibus maxime voluptatibus ipsum nulla incidunt vel nemo,
             dolorem laboriosam nihil quas unde distinctio facilis ipsam hic,
             dolores nobis assumenda provident.
           </p>
-          <p className="text-white ">
+          <p className="text-white text-xl ">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
             natus eum illo architecto recusandae ullam reiciendis distinctio
             repudiandae sint sit omnis reprehenderit doloribus eveniet,
@@ -42,7 +42,7 @@ function About() {
         <h1 className="text-tertiary text-xl">
           Here are a few Technologies I've been working with:
         </h1>
-       <div className="flex flex-wrap gap-10 mt-5 ">
+       <div className="flex flex-wrap gap-10 mt-5 mb-10">
        {skills.map((skill, index) => (
           <div key={index} className="border-2 border-tertiary text-tertiary px-10 py-3 ">
             {skill}

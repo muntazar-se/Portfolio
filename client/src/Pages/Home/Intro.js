@@ -11,7 +11,7 @@ function Intro() {
         I build things for the web 👨🏻‍💻
       </h1>
       <p className="text-white w-2/3 sm:w-full">
-        I create responsive, user-friendly web interfaces with a focus on clean
+        I create responsi ve, user-friendly web interfaces with a focus on clean
         design and seamless user experiences. My work emphasizes accessibility,
         performance, and crafting visually appealing, intuitive applications.
       </p>
