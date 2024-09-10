@@ -24,3 +24,29 @@
   
   border-radius: 10px;
 }
+i{
+  cursor: pointer;
+}
+i:hover{
+  
+  color: white;
+
+}
+
+.m{
+  color: rgb(250, 249, 248);
+  animation: m 1s infinite;
+}
+
+@keyframes m{
+  0%{
+    opacity: 1 ;
+  }
+  50%{
+    opacity: 0.2 ;
+   
+  }
+  100%{
+    opacity: 1;
+  }
+}

@@ -2,7 +2,7 @@ export const projects = [
     {
         _id:"345353",
         title:"Doctor Booking App",
-        image:"https://media.istockphoto.com/id/1091348950/tr/foto%C4%9Fraf/diz%C3%BCst%C3%BC-bilgisayarda-yazarak-el-kapat%C4%B1n-gece-i%C5%9F-kavram%C4%B1.jpg?s=1024x1024&w=is&k=20&c=J0_4bDat9MQ27cTlckMHhVDWyMM22rFBiiCDqutHsqw=",
+        image:"https://lottie.host/ac5e423b-5a20-493a-8e88-d3ab9df6a5a9/N9M8iJmoNW.json",
         description:"   Lorem ipsum dolor bla bla bla bla bla bla sit amet consectetur adipisicing elit. Assumenda accusamus quod alias, fuga dolor animi ab ut, vitae veniam, sapiente amet expedita obcaecati autem est tenetur molestiae quos. Amet, at",
         link:"/",
 
@@ -10,7 +10,7 @@ export const projects = [
     {
         _id:"342453",
         title:"Car Rental App",
-        image:"https://media.istockphoto.com/id/1091348950/tr/foto%C4%9Fraf/diz%C3%BCst%C3%BC-bilgisayarda-yazarak-el-kapat%C4%B1n-gece-i%C5%9F-kavram%C4%B1.jpg?s=1024x1024&w=is&k=20&c=J0_4bDat9MQ27cTlckMHhVDWyMM22rFBiiCDqutHsqw=",
+        image:"https://lottie.host/e887e39d-c7dd-4be9-9b29-6fcac6c195d8/0Fg7wysRJp.json",
         description:"   Lorem ipsum dolor bla bla bla bla bla bla sit amet consectetur adipisicing elit. Assumenda accusamus quod alias, fuga dolor animi ab ut, vitae veniam, sapiente amet expedita obcaecati autem est tenetur molestiae quos. Amet, at",
         link:"/",
 
