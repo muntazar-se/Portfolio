@@ -16,7 +16,7 @@ function About() {
       <div className="flex w-full items-center sm:flex-col mb-10">
         <div className="h-[40vh] w-1/2  sm:w-full">
           <dotlottie-player
-            src="https://lottie.host/cae0d3cf-054e-4925-86fa-9819cf8805bd/mEIzUZtwMc.json"
+            src="https://lottie.host/b9dde84f-5637-4101-a176-6554220614ef/AsiB3QYHDl.json"
             background="transparent"
             speed="1"
             loop

@@ -27,7 +27,7 @@ function Contact() {
 
         <div className=" h-[35vh] w-1/2  sm:w-full">
           <dotlottie-player
-            src="https://lottie.host/e05513e9-0c82-4c99-a5a9-45e4befbb10d/2eEWo1lkMw.json"
+            src="https://lottie.host/3dc32d92-1e16-41a2-8633-c3fa99738c87/w021pCnGvx.json"
             background="transparent"
             speed="1"
             

@@ -2,7 +2,7 @@ export const projects = [
     {
         _id:"345353",
         title:"Doctor Booking App",
-        image:"https://lottie.host/ac5e423b-5a20-493a-8e88-d3ab9df6a5a9/N9M8iJmoNW.json",
+        image:"https://lottie.host/d05f3927-42d8-4639-9cac-41f2656b30e0/L7nR2rpNE4.json",
         description:"   Lorem ipsum dolor bla bla bla bla bla bla sit amet consectetur adipisicing elit. Assumenda accusamus quod alias, fuga dolor animi ab ut, vitae veniam, sapiente amet expedita obcaecati autem est tenetur molestiae quos. Amet, at",
         link:"/",
 
