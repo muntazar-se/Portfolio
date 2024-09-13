@@ -21,10 +21,6 @@ const introSchema = new mongoose.Schema({
         type: String,
         require: true,
     },
-    {
-        type: String,
-        require: true,
-    },
 })
 
 const aboutSection = new mongoose.Schema({
